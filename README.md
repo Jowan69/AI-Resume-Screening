@@ -4,6 +4,7 @@
 # AI-Powered Resume Screening System
 
 Overview
+
 An advanced AI system that automatically screens resumes using BERT embeddings and machine learning. Processes 1000+ resumes with 97.5% accuracy and reduces screening time by 85%.
 
  Key Features
@@ -32,7 +33,7 @@ This system can revolutionize hiring by:
 
 📧 Contact
 - Email: georgejowan8@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- LinkedIn: [https://github.com/Jowan69]
 
 ---
 ⭐ Star this repository if it helped you!
